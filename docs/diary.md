@@ -3,3 +3,4 @@
 * initial version of diary created
 * updated by otti.k
 * updated by Jan
+* initialised group chat at Telegram
