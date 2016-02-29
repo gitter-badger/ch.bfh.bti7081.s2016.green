@@ -2,6 +2,7 @@
 * Patienten
 * Medizinisches Personal
 * Empfangspersonal
+* Management
 
 ## Key Features
 
