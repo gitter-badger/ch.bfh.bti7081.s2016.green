@@ -28,3 +28,5 @@
 * Datensicherheit ist gewährleistet
 * Bereitsschaft des Medizinpersonals
 * Rechtliche Vorgaben eingehalten
+* Webinterface für ortsunabhängigen Zugriff
+* Rollenmanagement
