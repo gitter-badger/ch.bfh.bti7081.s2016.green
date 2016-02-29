@@ -28,5 +28,7 @@
 * Kunde auf dem Laufenden behalten
 
 ##What are the implications for software engineering?
-* ...
+* Ziel am Anfang genügend definieren
+* Know-How is key
+* Projektmethode durchziehen, sollte allen bekannt sein
 
