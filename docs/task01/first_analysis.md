@@ -23,6 +23,9 @@
 * Termine der Patienten
 * Verwaltung der Patientendaten (Adresse etc...)
 
+### Management
+* Reporting
+
 ## Critical Success Factors
 * Einfach zu benutzen für Patienten
 * Datensicherheit ist gewährleistet
