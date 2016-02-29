@@ -1,39 +1,42 @@
 ##Target Users
 * Patienten
-* Medizinisches Personal
+* Aerzte
+* Krankenschwestern
 * Empfangspersonal
 * Management
 
 ## Key Features
 
 ### Patienten
-* Terminverwaltung
-* Kontakt mit dem zuständigen Arzt
+* Terminverwaltung (Einsehen, Terminverschiebungsantrag)
+* Verwaltung des eigenen Profils
+* Kontakt mit dem zuständigen Empfangspersonal
+* Emergency Button
 
 ### Aertze
 * Ueberblick über Patienten
-* Search / Create / Delete / Update Entities
-* Kontakt mit Patienten
+* Verwalten der Patientendaten
 * Einsicht in Patientenakten
+* Patientenueberweisung
 
 ### Krankenschwestern
-* Medikationsdosierung
-* Search / Create / Delete / Update Entities
-* Einsicht in Patientenakten
+* Eingeschränkte Einsicht in Patientenakten 
 
 ### Empfangspersonal
-* Search / Create / Delete / Update Entities
+* Verwaltung der nicht-medizinischen Patientendaten
+* Akzeptieren von Terminverschiebung
 * Termine der Aerzte
 * Termine der Patienten
-* Verwaltung der Patientendaten (Adresse etc...)
 
 ### Management
 * Reporting
 
 ## Critical Success Factors
-* Einfach zu benutzen für Patienten
+* Usability
 * Datensicherheit ist gewährleistet
-* Bereitsschaft des Medizinpersonals
+* Datenintegrität
+* Stablität und Verfügbarkeit
+* Akzeptanz der Software vom Medizinpersonals
 * Rechtliche Vorgaben eingehalten
 * Webinterface für ortsunabhängigen Zugriff
 * Rollenmanagement
