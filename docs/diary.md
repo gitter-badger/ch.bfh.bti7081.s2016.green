@@ -8,3 +8,5 @@
 
 # 29.02.2016
 * created answers for cs0_t1: insieme-project-analysis
+* cs1_t1: defined target users, key features, csfs 
+
