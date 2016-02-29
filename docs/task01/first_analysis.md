@@ -24,3 +24,7 @@
 * Verwaltung der Patientendaten (Adresse etc...)
 
 ## Critical Success Factors
+* Einfach zu benutzen für Patienten
+* Datensicherheit ist gewährleistet
+* Bereitsschaft des Medizinpersonals
+* Rechtliche Vorgaben eingehalten
