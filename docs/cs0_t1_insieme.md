@@ -9,6 +9,19 @@
 * vorgegebene Projektmethode HERMES wurde nicht beachtet
 * Reibereien zwischen BIT und ESTV
 * schlechte Berichtserstattung
+* Wechselnde externe Coaches
+* Methodiken während Projekt geändert
+* Mangelnde Definition der Lieferobjekte
+* Luxuslösungen der Entwickler durch mangelhafte Lieferobjektdefinition
+* Auftraggeber definierte Architektur
+* Externe in Schlüsselpositionen entscheiden nicht kostenkünstig
+* Bereits erstellte Module wurden von externen Firmen abgelöst
+* GPL nach Freistellung weiterbezahlt
+* Mangelhafte Statusberichte (Leistungsreduktion nicht erwähnt)
+* Technische, nicht strategische Reports
+* Mangelnde Ressourcenplanung seitens ESTV
+* Nachfolgeaufträge freihändig vergeben
+* Mangelhafte Kompetenzregelung
 * Dokumentierte Prozesse bei der ESTV nicht gelebt
 * Beschaffungsprozesse unklar bei der ESTV
 * Eigententwicklungen und Nischenprodukte statt Standardsoftware
