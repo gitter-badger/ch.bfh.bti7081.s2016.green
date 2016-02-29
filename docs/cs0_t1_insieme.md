@@ -8,6 +8,8 @@
 * vorgegebene Projektmethode HERMES wurde nicht beachtet
 * Reibereien zwischen BIT und ESTV
 * schlechte Berichtserstattung
+* Dokumentierte Prozesse bei der ESTV nicht gelebt
+* Beschaffungsprozesse unklar bei der ESTV
 
 ##Why is software complex? 
 * Hardware-Anforderungen/Vorgaben
@@ -17,6 +19,7 @@
 
 ##Why is software engineering challenging?
 * Anforderungen erfassen
+* Neue Anforderungen im laufenden Projekt einbinden
 * Kosten schätzen
 * Kunde auf dem Laufenden behalten
 
