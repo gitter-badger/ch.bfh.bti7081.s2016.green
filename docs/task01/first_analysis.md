@@ -11,14 +11,17 @@
 
 ### Aertze
 * Ueberblick über Patienten
+* Search / Create / Delete / Update Entities
 * Kontakt mit Patienten
 * Einsicht in Patientenakten
 
 ### Krankenschwestern
 * Medikationsdosierung
+* Search / Create / Delete / Update Entities
 * Einsicht in Patientenakten
 
 ### Empfangspersonal
+* Search / Create / Delete / Update Entities
 * Termine der Aerzte
 * Termine der Patienten
 * Verwaltung der Patientendaten (Adresse etc...)
