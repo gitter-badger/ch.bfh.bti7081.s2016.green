@@ -1,6 +1,7 @@
 ##What were the main reasons the project failed?
 * keine Gesamtplanung, schlechte Vorausplanung
 * viele Externe Mitarbeiter mit teils auffallend hohen Stundenansätzen
+* Häufige Kurswechsel (Methodik) aufgrund von externen Firmen
 * Fehlende fachliche Führung des Projektes
 * Fehlendes Know-how
 * zu viele / falsche Mitarbeiter im GPA
