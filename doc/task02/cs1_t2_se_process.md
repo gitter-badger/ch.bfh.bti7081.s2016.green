@@ -77,16 +77,37 @@ Aus dem Inkrementellen und Agilen Modell wollen wir die folgende Aspekte verwend
 | 01       |  Umgebung des Kunden analyisieren | Informationsbeschaffung für Gesamtplanung      | Machbarkeitsstudie          |
 | 02       |  Vorbesprechung mit Kunden  | Momentane Bedürfnisse erkennen      | Aktuelle Stimmung und Probleme dokumentieren         |
 | 03       |  Daily Business Analyse | Aktuelle Arbeitsweise festhalten | Bestehende Prozesse und Software kennen |
+| 04       |  Terminwünsche aufnehmen | Gemeinsame Terminvorstellungen | Terminwünsche |
 
 ### Aktivität_01_Requirements Engineering
 
 | Aufgabe Nr. | Aufgabe                            | Ziel    | Potentieller Output  |
 | -------- | -------------------------------------- | --------- | ------------ |
-| 01       |  Bedürfnisse identifizieren mit dem Kunden | Bedürfnisse kennen      | Liste der Bedürfnisse          |
-| 02       |  Vorbesprechung mit Kunden  | Momentane Bedürfnisse erkennen      | Aktuelle Stimmung und Probleme dokumentieren         |
-| 03       |  Daily Business Analyse | Aktuelle Arbeitsweise festhalten | Bestehende Prozesse und Software kennen |
+| 01       |  Bedürfnisse mit dem Kunden identifizieren | Bedürfnisse kennen      | Liste der Bedürfnisse          |
+| 02       |  Priorisierung der Bedürfnisse  | Wichtigkeit der Bedürfnisse kennen     | Priorisierte Liste der Bedürfnisse       |
+| 03       |  Voranalyse einfliessen lassen | Machbarkeit bekannt | Machbarkeitsstudie kompletiert |
+| 04       |  Grafische Oberfläche skizzieren und besprechen | Kunde und Entwickler haben eine Vorstellung der Oberfläche | Mock-Ups |
 
+### Aktivität_02_Gesamtplanung des Projekts
 
+| Aufgabe Nr. | Aufgabe                            | Ziel    | Potentieller Output  |
+| -------- | -------------------------------------- | --------- | ------------ |
+| 01       |  Projektrahmen definieren | Grobplanung bekannt  | Grobplanung          |
+| 02       |  Kompetenzregelung | Jeder kennt seine Aufgaben und Verantwortungen | Kompetenzliste |
+| 03       |  Hürden identifizieren  | Kritische Faktoren und Risiken bekannt     | Risikoanalyse       |
+| 04       |  Detailplanung | Meilensteine festlegen | Detailplanung |
+| 05       |  Requirements in Tasks umformulieren | Aufgaben für Projektmitarbeiter bekannt | priorisierte Taskliste |
+| 06       |  Design der Applikation definieren | Implementationsgrundlage schaffen | UML/ERD-Diagramme |
 
-### Aktivität_01_Gesamtplanung des Projekts
+### Iterative Aktivitäten
 
+Diese Tasks wiederholen regelmässig (Sprints)
+
+| Aufgabe Nr. | Aufgabe                            | Ziel    | Potentieller Output  |
+| -------- | -------------------------------------- | --------- | ------------ |
+| 01       |  Tasks in Stories umformulieren und einplanen | definierte Stories mit Abnahmekriterien  | Sprintplanung          |
+| 02       |  Entwickler zerlegt Stories in kleine Tasks | Projektmitarbeiter kennt seine Aufgaben | Taskliste für Projektmitarbeiter  |
+| 03       |  Entwicklung | Software entwickeln/Unit Tests schreiben| getestete Software |
+| 04       |  Dokumentieren | Software ist stets aktuell dokumentiert | dokumentierte Software |
+| 05       |  Review durch Team | Software ist durch 4 Augen-Prinzip validiert | stabile Software |
+| 06       |  Review durch Kunde| Kunde sieht und kommentiert Produkt | Feedback durch Kunde |
