@@ -111,3 +111,4 @@ Diese Tasks wiederholen regelmässig (Sprints)
 | 04       |  Dokumentieren | Software ist stets aktuell dokumentiert | dokumentierte Software |
 | 05       |  Review durch Team | Software ist durch 4 Augen-Prinzip validiert | stabile Software |
 | 06       |  Review durch Kunde| Kunde sieht und kommentiert Produkt | Feedback durch Kunde |
+| 07       |  Retrospektive | Team analysiert eigene Leistung und verbessert sich kontinuierlich | Leistung des Teams wird kontinuierlich besser |
