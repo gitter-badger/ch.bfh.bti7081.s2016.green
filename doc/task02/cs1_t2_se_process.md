@@ -3,15 +3,16 @@
 ## Plan-driven
 
 ### Pros
-* Unnötige Kundenintervention minimieren
-* Klare Zielvorgabe 
+* Wir vermeiden unnötige Kundeninteraktionen (Lange Sitzungen, etc.)
+* Wir haben klare Zielvorgaben mit fixen Projektphasen
 * Gewichtung auf Spezifikationen und Anforderungen zu Beginn
-* Bessere Kostenabschätzung
+* Eine genaue Kostenabschätzung kann abgegeben werden
 
 ### Cons
 * Wenig und späte Kundeninteraktion/Feedback
-* Schwierig und umständlich auf Changes zu reagieren
+* Schwierig und umständlich auf Changes zu reagieren (Träge)
 * Späte Änderungen sind teuer
+* Hoher Aufwand für das Requirements Engineering
 
 ## Agile
 
@@ -20,6 +21,7 @@
 * Konzeptionsphase zu Beginn kurz, man ist schneller in der Umsetzung (Entwicklung)
 * Schnelle Ergebnisse für den Kunden sichtbar
 * Laufendes Feedback durch den Kunden
+* Unserer Code wird bei jedem Commit kontinuierlich getestet (Continuous integration)
 
 ### Cons
 * Unnötige Komplexität bei vielen Änderungen
