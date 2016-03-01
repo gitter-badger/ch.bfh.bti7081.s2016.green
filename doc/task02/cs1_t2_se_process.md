@@ -36,8 +36,8 @@ Startphase: Plan-driven, danach Übergang in die Agile Entwicklung
 ## Process Model Decision
 
 Wir haben uns entschieden eine Mischform der beiden Prozessmodelle (Plan-Driven, Incremental) zu verwenden.
-Aufgrund unseres eher geringen Wissens im Bereich des Spitalwesens, ist es für uns wichtig, bereits im voraus einen Plan zu erstellen, damit wir nicht in eine komplett falsche Richtung starten.
-Dies ist mit dem Plan-Driven Ansatz perfekt möglich.
+Aufgrund unseres eher geringen Wissens im Bereich des Spitalwesens, ist es für uns wichtig, bereits im Voraus einen Plan zu erstellen und die Bedürfnisse detailiert zu erfassen, damit wir nicht in eine komplett falsche Richtung starten.
+Dies ist mit dem Plan-Driven Ansatz optimal umsetzbar.
 
 Andererseits wollen wir uns nicht die Möglichkeit nehmen, während dem Implementationsprozess auf weitere Kundenwünsche einzugehen und diese flexibel umzusetzen.
 Mit einem inkrementellen und agilen Ansatz ist dies bereits im Prozess integriert.
