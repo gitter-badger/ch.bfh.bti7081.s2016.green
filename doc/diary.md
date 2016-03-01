@@ -29,4 +29,6 @@
 
 ## 01.03.2016
 * Updated diary with members and to-do list
+* created presentation for task02
+* defined project-phases and conventions
 
