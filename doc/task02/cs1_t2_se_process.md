@@ -22,8 +22,13 @@
 * Schnelle Ergebnisse für den Kunden sichtbar
 * Laufendes Feedback durch den Kunden
 * Unserer Code wird bei jedem Commit kontinuierlich getestet (Continuous integration)
+* Laufendes Deployment für den Kunden
 
 ### Cons
 * Unnötige Komplexität bei vielen Änderungen
-* Ziel und Kosten können schneller ausser Kontrolle geraten
+* Unsere Ressourcen können schneller ausser Kontrolle geraten (Zeit und Kosten)
 * Mehr Aufwand für den Kunden, Ressourcen müssen immer bereitstehen
+
+## Decision
+
+Startphase: Plan-driven, danach Übergang in die Agile Entwicklung
