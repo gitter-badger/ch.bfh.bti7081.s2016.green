@@ -13,6 +13,7 @@
 | Task Nr. | Description                            | Status    | Responsible  |
 | -------- | -------------------------------------- | --------- | ------------ |
 | 01       |  [CS1 Task 1: First Analysis](../docs/task01/)            | done      | All          |
+| 02       |  [CS1 Task 2: SE Process ](../docs/task02/)            | open      | All          |
 
 ## 22.02.2016
 * created github-repository
