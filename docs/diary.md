@@ -5,14 +5,14 @@
 * Jan Scheidegger
 * Othmar Kesseli
 * Christoph Kiser
-* Bachmann Rico
+* Rico Bachmann
 * Marc Christen
 
 ## To-Do List
 ### Tasks
 | Task Nr. | Description                            | Status    | Responsible  |
 | -------- | -------------------------------------- | --------- | ------------ |
-| 01       | CS1 Task 1: First Analysis             | done      | All          |
+| 01       |  [CS1 Task 1: First Analysis](../docs/task01/)            | done      | All          |
 
 ## 22.02.2016
 * created github-repository
