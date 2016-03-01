@@ -101,7 +101,8 @@ Aus dem Inkrementellen und Agilen Modell wollen wir die folgende Aspekte verwend
 
 ### Iterative Aktivitäten
 
-Diese Tasks wiederholen regelmässig (Sprints)
+Diese Tasks wiederholen regelmässig (Sprints), jeden Tag wird ein Meeting
+durchgeführt, an dem über den aktuellen Stand und Probleme gesprochen wird.
 
 | Aufgabe Nr. | Aufgabe                            | Ziel    | Potentieller Output  |
 | -------- | -------------------------------------- | --------- | ------------ |
