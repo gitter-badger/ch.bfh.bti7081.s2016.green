@@ -14,7 +14,7 @@
 * Gerät alarmiert bei Funktionsproblemen
 
 ### Domain
-* 
+* Gerät darf nicht ohne Instruktion verwendet werden
 
 ## Use Case: Blutzucker Level anzeigen
 ### Functional
@@ -32,14 +32,20 @@
 
 ## Use Case: Batteriewechsel
 ### Functional
-* AA-Batterien werden benötigt (4)
+* AA-Batterien werden benötigt (4Stk.)
 * Batterie muss ohne Werkzeug gewechselt werden können
 * Alarmierung bei 80% entladen
 
 ### Non-Functional
-* Batterie muss mind. 30Tage durchgehen betrieben werden
+* Batterie muss mind. 30 Tage durchgehen betrieben werden können
+* Batteriewechsel darf max. CHF 20.-
+* Robuste Verarbeitung des Geräts
+* Dokumentation des Batteriewechsels
+* Verletzungsgefahr beim Batteriewechsel muss minimiert werden
 
 ## Domain
+* Technikerpersonal muss in 5 - 7 Tagen erreichbar
+* Ersatzbatterien müssen lieferbar sein
 
 
 
