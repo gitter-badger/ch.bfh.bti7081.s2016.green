@@ -22,4 +22,4 @@
 | -------- | -------------------------------------- | ------------ |
 | 01.01.01 | System | Gerät lässt sich nicht ausschalten |
 | 01.02.01 | System | Abdeckung klemmt |
-| 01.05.01 | Techniker | Gerät einschalten |
+| 01.05.01 | Techniker | Selbsttest beim Starten schlägt fehl |
