@@ -1,7 +1,7 @@
+|      |                   |
 | ---- | ----------------- |
 | Name | Batterie wechseln |
-| Kurzbeschreibung | Fachmitarbeiter wechselt die Batterie. Dazu muss er vorher
-das Gerät auschalten. Nach dem Wechsel wird das Gerät wieder eingeschaltet. |
+| Kurzbeschreibung | Fachmitarbeiter wechselt die Batterie. Dazu muss er vorher das Gerät auschalten. Nach dem Wechsel wird das Gerät wieder eingeschaltet. |
 | Akteur | Techniker |
 | Vorbedingung | Batterie fast leer |
 | Nachbedingung | Batterie wieder geladen |
