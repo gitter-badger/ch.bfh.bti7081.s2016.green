@@ -13,7 +13,7 @@
 | Task Nr. | Description                            | Status    | Responsible  |
 | -------- | -------------------------------------- | --------- | ------------ |
 | 01       |  [CS1 Task 1: First Analysis](../doc/task01/)            | done      | All          |
-| 02       |  [CS1 Task 2: SE Process ](../doc/task02/)            | open      | All          |
+| 02       |  [CS1 Task 2: SE Process ](../doc/task02/)            | done      | All          |
 
 ## 22.02.2016
 * created github-repository
@@ -32,3 +32,5 @@
 * created presentation for task02
 * defined project-phases and conventions
 
+## 07.03.2016
+* Finished CS2 Tasks 1-3 (Requirements, Use cases, Activities)
