@@ -33,4 +33,4 @@
 * defined project-phases and conventions
 
 ## 07.03.2016
-* Finished CS2 Tasks 1-3 (Requirements, Use cases, Activities)
+* CS2 Tasks 1-3 (Requirements, Use cases, Activities)
